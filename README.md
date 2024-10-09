@@ -9,11 +9,7 @@
 <br>
 Desarrollador web con conocimientos en lenguajes de programación como JavaScript, Node.js, Express, Python, Machine Learning, Deep Learning, SQL y MongoDB.
 <br>
-### <picture>
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px">
-</p>
-  </picture> Lenguajes de programción
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> Lenguajes de programción
 <p align="center"> 
   &emsp; 
   <a href="https://nodejs.org/" target="_blank"> 
