@@ -24,10 +24,6 @@ Desarrollador web con conocimientos en lenguajes de programación como JavaScrip
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
   &emsp;
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
-  </a> 
-  &emsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white">
   </a>
@@ -36,7 +32,12 @@ Desarrollador web con conocimientos en lenguajes de programación como JavaScrip
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white">
   </a>
   &emsp;
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
 </p>
+
 
 
 
