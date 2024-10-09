@@ -9,8 +9,7 @@
 <br>
 Desarrollador web con conocimientos en lenguajes de programación como JavaScript, Node.js, Express, Python, Machine Learning, Deep Learning, SQL y MongoDB.
 <br>
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de programción
 <p align="center"> 
   &emsp; 
   <a href="https://nodejs.org/" target="_blank"> 
@@ -33,7 +32,12 @@ Desarrollador web con conocimientos en lenguajes de programación como JavaScrip
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white">
   </a>
   &emsp;
+  <a href="https://jupyter.org/" target="_blank"> 
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white">
+  </a>
+  &emsp;
 </p>
+
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
