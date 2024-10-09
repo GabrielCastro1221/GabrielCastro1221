@@ -1,8 +1,5 @@
 # 💻 Welcome to My GitHub Profile!
 
-Hello, I'm **[Tu Nombre]**, a passionate developer from [tu ubicación]! 👋 I love building projects, solving problems, and learning new technologies.
-
----
 
 ### 🛠️ Languages and Tools:
 
@@ -14,14 +11,6 @@ Hello, I'm **[Tu Nombre]**, a passionate developer from [tu ubicación]! 👋 I 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🔥 My GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
----
 
 ### 🏆 GitHub Trophies:
 
