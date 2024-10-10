@@ -1,10 +1,9 @@
 <h1 align="center">Hola! Mi nombre es Gabriel Castro Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=30&center=true&vCenter=true&width=700&height=70&lines=Web+Developer+Full+Stack;Data+Analyst;Data+Science+Enthusiast;Always+Learning+New+Tech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=700&height=70&lines=Desarrollador+Full+Stack;Analista+de+Datos;Ciencia+de+Datos;Siempre+Aprendiendo+Nuevas+Tecnologías">
   </a>
 </p>
-
 <br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi:
