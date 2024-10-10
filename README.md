@@ -13,7 +13,7 @@ Desarrollador web con conocimientos en lenguajes de programación como JavaScrip
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de programación
-<p align="left"> 
+<p align="center"> 
   &emsp; 
   <a href="https://nodejs.org/" target="_blank"> 
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
@@ -63,7 +63,7 @@ Desarrollador web con conocimientos en lenguajes de programación como JavaScrip
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Herramientas
  
-<p align="left">
+<p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
