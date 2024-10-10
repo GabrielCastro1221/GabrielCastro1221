@@ -9,7 +9,15 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
-Desarrollador web con conocimientos en lenguajes de programación como JavaScript, Node.js, Express, Python, Machine Learning, Deep Learning, SQL y MongoDB.
+Soy Programador Full Stack con experiencia en lenguajes de
+programación como JavaScript, Python, Node.js y Express. Manejo
+frameworks como Bootstrap, Tailwind y React.js, y tengo
+habilidades en la administración de bases de datos SQL y MongoDB.
+Además, implemento modelos de aprendizaje automático y profundo.
+Disfruto trabajar en equipo, ya que cada experiencia aporta
+aprendizajes valiosos para mi desarrollo personal y profesional.
+Me adapto fácilmente a los cambios y siempre busco soluciones
+pertinentes y efectivas a los retos que se me presentan.
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de programación
