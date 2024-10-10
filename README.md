@@ -1,13 +1,13 @@
-<h1 align="center">Hola! Mi nombre es Gabriel Castro Ramirez 
-  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
-</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=30&center=true&vCenter=true&width=700&height=70&lines=Desarrollador+Full+Stack;Analista+de+Datos;Entusiasta+de+Ciencia+de+Datos;Siempre+Aprendiendo+Nuevas+Tecnologías">
   </a>
 </p>
 <br>
-
+<h1 align="center">Hola! Mi nombre es Gabriel Castro Ramirez 
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+</h1>
+<br>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
