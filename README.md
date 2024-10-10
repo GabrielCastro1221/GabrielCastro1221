@@ -1,6 +1,5 @@
 <h1 align="center">Hola! Mi nombre es Gabriel Castro Ramirez 
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35">
-
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
