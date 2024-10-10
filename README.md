@@ -82,6 +82,10 @@ Desarrollador web con conocimientos en lenguajes de programación como JavaScrip
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=plastic&logo=visual-studio-code&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?&style=plastic&logo=power-bi&logoColor=black"/>
+  </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
