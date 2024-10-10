@@ -74,9 +74,17 @@ Desarrollador web con conocimientos en lenguajes de programación como JavaScrip
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+   &emsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=plastic&logo=mongodb&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=plastic&logo=visual-studio-code&logoColor=white"/>
+  </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
 <p align="left">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
